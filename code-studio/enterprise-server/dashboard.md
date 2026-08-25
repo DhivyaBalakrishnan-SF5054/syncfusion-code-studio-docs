@@ -81,6 +81,7 @@ The Dashboard Filter feature allows users to refine and analyze dashboard metric
    - **Team** - Select one or more teams to view their aggregated metrics.
    - **User** - Select a specific user or multiple users within the selected team to see detailed usage statistics.
    - **Chat Session** – Once a user or team is selected, you can filter further by chat sessions to analyze session-level usage.
+   - **Models** - Based on selected users and chats models will be listed
 
    <img src="./enterprise-images/dashboardfilter.png" alt="dashboard"  />
    
